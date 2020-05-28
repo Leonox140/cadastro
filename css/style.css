@@ -1,0 +1,41 @@
+
+
+* {
+    margin: 3px;
+    padding: 0;	
+}
+
+
+#form_contato {	
+background:#CAE1FF;	
+font:12px roboto, sans-serif;	
+border-top:8px solid #A2B5CD;
+border-left:8px solid #A2B5CD;	
+border-right:8px solid #BCD2EE;
+border-bottom:8px solid #BCD2EE;
+border-collapse:collapse;
+color:#000000;
+width: 500px;
+margin-left: 100px;
+}
+
+header {	
+background:#CAE1FF;	
+font:12px roboto, sans-serif;	
+border-top:8px solid #A2B5CD;
+border-left:8px solid #A2B5CD;	
+border-right:8px solid #BCD2EE;
+border-bottom:8px solid #BCD2EE;
+border-collapse:collapse;
+color:#000000;
+width: 500px;
+margin-top: 40px;
+margin-left: 100px;
+}
+
+
+.btn btn-success {	
+background:#000000;	
+color:#ffffff;
+border:2px solid #ffffff;
+}	
